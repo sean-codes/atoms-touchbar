@@ -1,0 +1,28 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "background": "#000",
+      "action": "goHome"
+   },
+   "items": [
+      {
+         "type": "colorPicker"
+      },
+      {
+         "type": "button",
+         "label": "HEX",
+         "click": "toolbarLeft"
+      },
+      {
+         "type": "button",
+         "label": "RGB",
+         "click": "toolbarRight"
+      },
+      {
+         "type": "button",
+         "label": "RGBA",
+         "click": "toolbarRight"
+      }
+   ]
+}

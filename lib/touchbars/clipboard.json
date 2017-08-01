@@ -1,0 +1,20 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "background": "#000",
+      "action": "goHome"
+   },
+   "items": [
+      {
+         "type": "button",
+         "label": "Copy",
+         "click": "toolbarLeft"
+      },
+      {
+         "type": "button",
+         "label": "Paste",
+         "click": "toolbarRight"
+      }
+   ]
+}

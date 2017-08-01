@@ -1,0 +1,14 @@
+{
+   "items": [
+      {
+         "type": "button",
+         "icon": "clip",
+         "action": "goClip"
+      },
+      {
+         "type": "button",
+         "icon": "color",
+         "action": "goColor"
+      }
+   ]
+}
