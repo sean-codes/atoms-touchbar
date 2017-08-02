@@ -8,12 +8,44 @@
    "items": [
       {
          "type": "button",
-         "label": "one",
+         "label": "⚔️",
+         "background": "#000",
          "action": "addCopy"
       },
       {
          "type": "button",
-         "label": "two",
+         "label": "❤️",
+         "background": "#000",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "🦑",
+         "background": "#000",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "😓",
+         "background": "#000",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "😭",
+         "background": "#000",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "☠️",
+         "background": "#000",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "👾",
+         "background": "#000",
          "action": "addCopy"
       }
    ]
