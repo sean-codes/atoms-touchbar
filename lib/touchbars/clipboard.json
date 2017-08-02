@@ -1,4 +1,8 @@
 {
+   "extra": {
+      "deleteToggle" : false,
+      "deleteButtonPosition": 1
+   },
    "escapeItem": {
       "type": "button",
       "icon": "close",
@@ -9,12 +13,12 @@
       {
          "type": "button",
          "label": "Copy",
-         "click": "toolbarLeft"
+         "action": "goIcons"
       },
       {
          "type": "button",
-         "label": "Paste",
-         "click": "toolbarRight"
+         "label": "Del",
+         "action": "copyDelete"
       }
    ]
 }
