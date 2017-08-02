@@ -10,43 +10,43 @@
          "type": "button",
          "label": "⚔️",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "❤️",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "🦑",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "😓",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "😭",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "☠️",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       },
       {
          "type": "button",
          "label": "👾",
          "background": "#000",
-         "action": "addCopy"
+         "action": "copy"
       }
    ]
 }
