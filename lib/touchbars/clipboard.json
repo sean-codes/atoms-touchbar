@@ -19,6 +19,10 @@
          "type": "button",
          "label": "Del",
          "action": "copyDelete"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
       }
    ]
 }
