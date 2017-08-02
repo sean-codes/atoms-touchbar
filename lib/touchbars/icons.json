@@ -1,0 +1,20 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "background": "#000",
+      "action": "goClip"
+   },
+   "items": [
+      {
+         "type": "button",
+         "label": "one",
+         "action": "addCopy"
+      },
+      {
+         "type": "button",
+         "label": "two",
+         "action": "addCopy"
+      }
+   ]
+}
