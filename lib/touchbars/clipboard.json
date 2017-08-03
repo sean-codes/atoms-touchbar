@@ -6,19 +6,22 @@
    "escapeItem": {
       "type": "button",
       "icon": "close",
-      "background": "#000",
       "action": "goHome"
    },
    "items": [
       {
          "type": "button",
-         "label": "Copy",
+         "icon": "copy",
          "action": "goIcons"
       },
       {
          "type": "button",
-         "label": "Del",
-         "action": "delete"
+         "icon": "delete",
+         "action": "deleteState"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
       },
       {
          "type": "spacer",
