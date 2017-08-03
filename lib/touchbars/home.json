@@ -9,6 +9,16 @@
          "type": "button",
          "icon": "color",
          "action": "goColor"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
+      },
+      {
+         "type": "button",
+         "icon": "github",
+         "action": "openGitTab",
+         "background": "#000"
       }
    ]
 }
