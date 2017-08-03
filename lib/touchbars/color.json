@@ -7,9 +7,6 @@
    },
    "items": [
       {
-         "type": "colorPicker"
-      },
-      {
          "type": "button",
          "label": "HEX",
          "click": "toolbarLeft"
@@ -23,6 +20,19 @@
          "type": "button",
          "label": "RGBA",
          "click": "toolbarRight"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
+      },
+      {
+         "type": "button",
+         "label": "Save",
+         "click": "toolbarRight"
+      },
+      {
+         "type": "colorPicker",
+         "color": "#FFF"
       }
    ]
 }
