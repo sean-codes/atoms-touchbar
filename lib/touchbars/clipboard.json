@@ -18,7 +18,7 @@
       {
          "type": "button",
          "label": "Del",
-         "action": "copyDelete"
+         "action": "delete"
       },
       {
          "type": "spacer",
