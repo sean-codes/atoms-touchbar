@@ -1,4 +1,9 @@
 {
+   "escapeItem":{
+      "type": "button",
+      "label": "esc",
+      "action": "escapeCommand"
+   },
    "items": [
       {
          "type": "button",
