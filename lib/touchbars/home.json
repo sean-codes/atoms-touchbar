@@ -20,15 +20,18 @@
       },
       {
          "type": "button",
+         "label": ":]",
+         "action": "goMadness"
+      },
+      {
+         "type": "button",
          "icon": "focus",
-         "action": "focusMode",
-         "background": "#000"
+         "action": "focusMode"
       },
       {
          "type": "button",
          "icon": "github",
-         "action": "openGitTab",
-         "background": "#000"
+         "action": "openGitTab"
       }
    ]
 }
