@@ -1,8 +1,4 @@
 {
-   "extra": {
-      "deleteToggle" : false,
-      "deleteButtonPosition": 1
-   },
    "escapeItem": {
       "type": "button",
       "icon": "close",
