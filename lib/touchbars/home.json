@@ -2,7 +2,7 @@
    "escapeItem":{
       "type": "button",
       "label": "esc",
-      "action": "escapeCommand"
+      "action": "escapeKey"
    },
    "items": [
       {
@@ -16,8 +16,13 @@
          "action": "goColor"
       },
       {
-         "type": "spacer",
-         "size": "flexible"
+         "type": "spacer"
+      },
+      {
+         "type": "button",
+         "icon": "focus",
+         "action": "focusMode",
+         "background": "#000"
       },
       {
          "type": "button",
