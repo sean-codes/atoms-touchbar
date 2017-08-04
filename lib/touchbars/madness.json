@@ -1,0 +1,12 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "action": "goHome"
+   },
+   "items":[
+      {
+         "type":"madness"
+      }
+   ]
+}
