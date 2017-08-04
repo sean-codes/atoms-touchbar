@@ -17,7 +17,7 @@
       {
          "type": "button",
          "icon": "delete",
-         "action": "deleteState"
+         "action": "clipboardDeleteToggle"
       },
       {
          "type": "spacer",

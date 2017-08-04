@@ -9,30 +9,28 @@
       {
          "type": "button",
          "label": "HEX",
-         "click": "toolbarLeft"
+         "action": "colorPasteHex"
       },
       {
          "type": "button",
          "label": "RGB",
-         "click": "toolbarRight"
+         "action": "colorPasteRGB"
       },
       {
          "type": "button",
          "label": "RGBA",
-         "click": "toolbarRight"
+         "action": "colorPasteRGBA"
       },
       {
-         "type": "spacer",
-         "size": "flexible"
+         "type": "spacer"
       },
       {
-         "type": "button",
-         "label": "Save",
-         "click": "toolbarRight"
+         "type": "spacer"
       },
       {
          "type": "colorPicker",
-         "color": "#FFF"
+         "action": "colorChange",
+         "color": "#465465"
       }
    ]
 }
