@@ -1,15 +1,19 @@
 {
-  "name": "atom-touchbar",
+  "name": "atoms-touchbar",
   "main": "./lib/atom-touchbar",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Atoms Touchbar Package. Multiclipboard, Colorpicker, and Particles",
   "keywords": [
+     "atom-touchbar",
+     "touchbar",
+     "touch bar",
+     "colorpicker",
+     "atom touchbar"
   ],
   "repository": "https://github.com/atom/atom-touchbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
