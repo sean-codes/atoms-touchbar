@@ -10,7 +10,7 @@
      "colorpicker",
      "atom touchbar"
   ],
-  "repository": "https://github.com/atom/atom-touchbar",
+  "repository": "https://github.com/sean-codes/atoms-touchbar",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
