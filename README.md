@@ -9,15 +9,19 @@ The focus of this package is to extend some keyboard functionallity rather than 
 
 ## Multiclipboard
 
-![MulticlipboardExample][(https://github.com/sean-codes/atom-touchbar/blob/master/example_clipboard.gif)
+![MulticlipboardExample](https://github.com/sean-codes/atom-touchbar/raw/master/example_clipboard.gif)
 
 Select your text, click the copy button. Choose an icon. This will save the copy to your clip board. By pressing the icon it will paste that text!
 
 ## Color Picker
 
+![ColorPickerExample](https://github.com/sean-codes/atom-touchbar/blob/master/example_paint.gif?raw=true)
+
 Choose a color from the colorpicker tool. Click to paste either HEX, RGB, or RGBA. The color will be saved as a recent color if you need it again!
 
 ## Particles
+
+![ParticlesExample](https://github.com/sean-codes/atom-touchbar/blob/master/example_particles.gif?raw=true)
 
 Press the `:]` key to open up a particle effect that really shows how fancy your touchbar is! 
 
