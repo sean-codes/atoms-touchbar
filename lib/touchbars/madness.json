@@ -6,7 +6,9 @@
    },
    "items":[
       {
-         "type":"madness"
+         "type":"button",
+         "background":"#000",
+         "iconPosition":"left"
       }
    ]
 }
