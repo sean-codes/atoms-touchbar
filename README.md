@@ -1,9 +1,6 @@
 # atom-touchbar package
 
-The touchbar package for Atom.io
-
-# Focus
-The focus of this package is to extend some keyboard functionallity rather than duplicate common keyboard shortcuts in atom.
+The touchbar package for Atom.io. This package is to extend some keyboard functionallity rather than duplicate common keyboard shortcuts in atom. Please if you run into any issues or features post here: [Features/Issues](https://github.com/sean-codes/atoms-touchbar/issues)
 
 # Features
 
