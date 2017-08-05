@@ -9,7 +9,7 @@ The focus of this package is to extend some keyboard functionallity rather than 
 
 ## Multiclipboard
 
-[Multiclipboard Example][(https://github.com/sean-codes/atom-touchbar/blob/master/example_clipboard.gif?raw=true)
+![Multiclipboard Example][(https://github.com/sean-codes/atom-touchbar/blob/master/example_clipboard.gif?raw=true)
 
 Select your text, click the copy button. Choose an icon. This will save the copy to your clip board. By pressing the icon it will paste that text!
 
