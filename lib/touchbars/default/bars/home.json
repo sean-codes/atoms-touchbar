@@ -1,0 +1,37 @@
+{
+   "escapeItem":{
+      "type": "button",
+      "label": "esc",
+      "action": "escapeKey"
+   },
+   "items": [
+      {
+         "type": "button",
+         "icon": "compose",
+         "action": "goClip"
+      },
+      {
+         "type": "button",
+         "icon": "color",
+         "action": "goColor"
+      },
+      {
+         "type": "spacer"
+      },
+      {
+         "type": "button",
+         "label": ":]",
+         "action": "goMadness"
+      },
+      {
+         "type": "button",
+         "icon": "focus",
+         "action": "focusMode"
+      },
+      {
+         "type": "button",
+         "icon": "github",
+         "action": "openGitTab"
+      }
+   ]
+}

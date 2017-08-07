@@ -1,0 +1,36 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "background": "#000",
+      "action": "goHome"
+   },
+   "items": [
+      {
+         "type": "button",
+         "label": "HEX",
+         "action": "colorPasteHex"
+      },
+      {
+         "type": "button",
+         "label": "RGB",
+         "action": "colorPasteRGB"
+      },
+      {
+         "type": "button",
+         "label": "RGBA",
+         "action": "colorPasteRGBA"
+      },
+      {
+         "type": "spacer"
+      },
+      {
+         "type": "spacer"
+      },
+      {
+         "type": "colorPicker",
+         "action": "colorChange",
+         "color": "#000000"
+      }
+   ]
+}

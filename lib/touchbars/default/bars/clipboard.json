@@ -1,0 +1,27 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "action": "goHome"
+   },
+   "items": [
+      {
+         "type": "button",
+         "icon": "copy",
+         "action": "goIcons"
+      },
+      {
+         "type": "button",
+         "icon": "delete",
+         "action": "clipboardDeleteToggle"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
+      },
+      {
+         "type": "spacer",
+         "size": "flexible"
+      }
+   ]
+}

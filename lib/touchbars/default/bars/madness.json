@@ -1,0 +1,14 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "action": "goHome"
+   },
+   "items":[
+      {
+         "type":"button",
+         "background":"#000",
+         "iconPosition":"left"
+      }
+   ]
+}

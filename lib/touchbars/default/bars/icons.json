@@ -1,0 +1,58 @@
+{
+   "escapeItem": {
+      "type": "button",
+      "icon": "close",
+      "background": "#000",
+      "action": "goClip"
+   },
+   "items": [
+      {
+         "type": "button",
+         "label": "⚔️",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "❤️",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "🦑",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "😓",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "😭",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "☠️",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "👾",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      },
+      {
+         "type": "button",
+         "label": "⚡️",
+         "background": "#000",
+         "action": "clipboardAddItem"
+      }
+   ]
+}
