@@ -25,8 +25,8 @@
       },
       {
          "type": "button",
-         "icon": "focus",
-         "action": "focusMode"
+         "icon" : "console",
+         "actions": "openDevTools"
       },
       {
          "type": "button",
