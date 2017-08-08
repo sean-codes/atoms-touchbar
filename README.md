@@ -20,3 +20,17 @@ Press the `:]` key to open up a particle effect that really shows how fancy your
 ## Extras
    * Focus - Hides Left and Right docks
    * GitHub - Opens GitHub dock
+
+## Structure
+   atoms-touchbar/lib/touchbars/
+   └── default/
+       ├── actions.js (where the actions live)
+       └── bars
+           ├── clipboard.json
+           ├── color.json
+           ├── home.json
+           ├── icons.json
+           └── madness.json
+
+If you would like to build a new touchbar or change the default. Open your `.atom/packages/atoms-touchbar`
+Inside `lib/touchbars` you can see the `default` folder. This is where the touchbars and actions for those bars are stored! The bars/actions inside uses all of the current features and it will be easy to make a copy of the folder then change the actions and touchbars to fit! [Open a pull request](https://github.com/sean-codes/atoms-touchbar) to add your folder to the main package!
